@@ -1,4 +1,4 @@
 package com.example.android.lumber;
 
-public class PostActivity {
+public class DetailsActivity {
 }
